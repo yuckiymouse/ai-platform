@@ -1,17 +1,18 @@
 # Image Classification
 ## Dog Breed Classificaiton
-- Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+- Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. 
 
 ## Environment
+- Python 3
 - Keras
-- cv2, Haar feature-based cascade classifiers
 
 
 # Data
-
+- 
 
 # Model
-
+- CNN (Convolutional Neural Network)
+  - Using a pre-trained ResNet-50
 
 # Results
 
