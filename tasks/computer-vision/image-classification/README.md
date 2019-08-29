@@ -35,11 +35,11 @@ model = Sequential()
     model.add(Activation('softmax'))
 ```
 # Training
-- epoch ... 15
-- batch size ... 128
+- batch_size=128, epochs=13
 
 # Results
-
+- Test loss: 0.7907178189277649
+- Test accuracy: 0.7308
 
 # discussion
 
